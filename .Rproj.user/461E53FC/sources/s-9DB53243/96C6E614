@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574759484948.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "439451159",
+    "id" : "96C6E614",
+    "lastKnownWriteTime" : 1574765507,
+    "last_content_update" : 1574765507156,
+    "path" : "C:/Users/kenne/OneDrive/Desktop/Bx Ubiqum/C3Task1-IoT/IoT Smarthome/IoT Smarthome.R",
+    "project_path" : "IoT Smarthome.R",
+    "properties" : {
+        "cursorPosition" : "9,27",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
